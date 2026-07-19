@@ -1,6 +1,3 @@
----
----
-
 <h1>Hello.</h1>
 
 <p>My name is Jenn. Here are some fun facts, before we discuss projects.
