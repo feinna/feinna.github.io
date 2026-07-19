@@ -1,4 +1,7 @@
-<h2> Hallucination, Omission, Emotion: The explanation of parliamentary text by large language models </h2>
+---
+---
+
+<h1> Hallucination, Omission, Emotion: The explanation of parliamentary text by large language models </h1>
 
 <p> My PhD follows on from my masters thesis project, which assessed the readability of federal parlimentary texts in Australia. </p>
 
@@ -10,5 +13,5 @@ Legislation is complex and despite there being a document type to help explain i
 <p>I'm planning on producing a few articles from this work, which I'll drop below once they've been formally published. </p> 
 <p>The final code will be available on my github once my PhD is complete, and I'll put a link for that here once it's done as well.</p>
 
-<h3> Links </h3>
-<p>Sorry, it's still a bit too early, there are no links present yet. </p>
+<h2> Outputs </h2>
+<p>Sorry, it's still a bit too early, there are no outputs present yet. </p>

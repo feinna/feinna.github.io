@@ -1,6 +1,6 @@
 ---
 ---
-<h2>Jennifer Wilson's CV (last updated: July 2026)</h2>
+<h1>Jennifer Wilson's CV (last updated: July 2026)</h1>
 
 <strong> Forthcoming qualification </strong>
 <ul>

@@ -1,4 +1,7 @@
-<h2> Rental Legislation in Victoria </h2>
+---
+---
+
+<h1> Rental Legislation in Victoria </h1>
 
 <p>Much of Australia is facing a housing crisis. With more renters than before, the services that provide assistance in understanding the legislation and your rights within a rental situation are facing quite a bit of pressure. <a href="https://tenantsvic.org.au/">Tenants Victoria</a>, who operate a well known service within my locality, noted in their 2024-25 annual report that despite expansion of their services, "...only 15-20% of all calls by renters are able to get through to us for help." (Tenants Victoria, 2025). That's a problem.</p>
 
@@ -10,7 +13,7 @@
 
 <p>This project will use retrieval-augmented generation, database tagging, five open models (one to write, four to assess the answer), an evaluation process, and a final decision making process. Phew!</p>
 
-<h3> Project Timeline 2026</h3>
+<h2> Project Timeline 2026</h2>
 <p><ul>
 <li>Database build: complete!</li>
 <li>Model selection: complete!</li>
@@ -22,7 +25,7 @@
 <li>Write up: September-October 2026</li>
 </ul></p>
 
-<h3> Models used in this project </h3>
+<h2> Models used in this project </h2>
 <p>This project uses a mix of models at different points in the system. Gpt-OSS is the only Mixture of Experts model. Both Mistral Small and Granite are non-reasoning models. Qwen 3.6 has reasoning turned <strong>off</strong> within this project; Gpt-Oss has thinking as the default <strong>medium</strong>. Gemma's reasoning is turned <strong>on</strong>.</p>
 <ul>
 <li>Gemma 4 in 26B</li>
@@ -32,10 +35,10 @@
 <li>Qwen 3.6 in 27B</li>
 </ul>
 
-<h3> Outputs </h3>
+<h2> Outputs </h2>
 <p>Sorry, it's still a bit too early, there are no direct outputs yet. </p>
 
 
-<h3> References </h3>
+<h2> References </h2>
 Tenants Victoria (2025) "Annual Report 2024-25", <a href="https://tenantsvic.org.au/wp-content/uploads/2025/10/Tenants-Victoria-Annual-Report-2024-2025.pdf">PDF for the 2024-25 Annual Report</a>, page 13
 
