@@ -1,5 +1,6 @@
-<h2> Exploring Dolly Magazine </h2>
-
+---
+Title: Exploring Dolly Magazine
+---
 <p>I read Dolly magazine as a teenager without knowing its extensive history. <a href="https://en.wikipedia.org/wiki/Dolly_(magazine)">Dolly</a> was a print publication in Australia that ran from November 1970 through to 2016. The Wikipedia entry does not do it justice. Fortunately, the <a href="https://www.slv.vic.gov.au/">State Library of Victoria</a> has an extensive physical collection.</p>
 
 <p>I was always interested in the advice columns. "What Should I Do?" was the Dolly advice column, running from 1971 through to the mid 90s, when it was replaced with "Sex and Your Body", and later, "Dolly Doctor Life" and "Dolly Doctor Love". Despite the column name changes, Dolly had an advice column full of reader questions and provided advice for much of its history.</p>
